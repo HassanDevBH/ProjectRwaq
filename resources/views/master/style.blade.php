@@ -54,7 +54,7 @@
         <p class="float-right">
           <a href="#">Back to top</a>
         </p>
-        <p>Create By Bootstrap, Laravel ❤️</p>
+        <p>Made by Bahrain ❤️</p>
       </div>
     </footer>
 
